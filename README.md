@@ -1,2 +1,2 @@
-# react_playground
-[React] 
+# React playground
+
